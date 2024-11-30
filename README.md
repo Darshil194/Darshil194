@@ -9,6 +9,8 @@
 🌱 **Currently exploring** [Web Development, AI, Cloud Computing]  
 
 ---
+Computer Science undergrad
+---
 
 ## 💡 Tech Stack
 
