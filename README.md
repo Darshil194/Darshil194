@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  **Computer Science undergrad**
+  <h2>Computer Science undergrad<h2>
 </div>
 
 ---
