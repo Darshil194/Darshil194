@@ -2,14 +2,16 @@
   <h1>Hi 👋, I'm Darshil</h1>
 </div>
 
+<div align="center">
+  **Computer Science undergrad**
+</div>
+
 ---
 
 🎓 **B.Tech Computer Science Undergraduate**  
 💻 **Passionate about coding, learning, and building projects**  
 🌱 **Currently exploring** [Web Development, AI, Cloud Computing]  
 
----
-Computer Science undergrad
 ---
 
 ## 💡 Tech Stack
